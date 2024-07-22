@@ -7,3 +7,4 @@ def factorial(n):
 number = 5
 result = factorial(number)
 print(f"The fctorial of {number} is {result}.")		
+print("a")
